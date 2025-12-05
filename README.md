@@ -1,25 +1,37 @@
-# Workforges ERP — Frontend
+<h1 align="center">⚡ Workforges ERP — Frontend (React)</h1>
 
-Workforges is a professional open-source ERP built for small and medium businesses.
-This repository contains the **React frontend** for modules like:
+Workforges is a next-gen **open-source, multi-tenant ERP**.  
+This repository contains the **React frontend**, built for installing modular business applications.
+
+---
+
+## 📦 Modules in MVP (Phase-1)
 
 - CRM
 - Sales
-- Accounting
 - Inventory
 - HRM
-- Dashboard KPIs
+- Dashboard
+- Authentication
 
-## 🚀 Tech Stack
-- React (Vite)
-- JavaScript / TypeScript
-- TailwindCSS / Ant Design (future)
-- REST API with Node.js backend
+More than **60 applications** will be released over time.
 
-## 🏗 Project Status
-⏳ Early development — looking for contributors.
+---
 
-## 🔧 Setup Instructions
+## 🧠 Tech Stack
+
+- React + Vite
+- TypeScript (preferred) / JavaScript
+- TailwindCSS / Ant Design
+- REST API with Node.js
+- PostgreSQL backend
+
+---
+
+## 🚀 Development Setup
+
 ```bash
+git clone https://github.com/Workforges/workforges-frontend.git
+cd workforges-frontend
 npm install
 npm run dev
