@@ -1,40 +1,17 @@
-# Workforges Frontend Roadmap
+# 📌 Workforges Frontend — MVP Roadmap
 
-The frontend will host the UI for all ERP modules.
+## Phase-1 (current)
+| Module | Status |
+|--------|--------|
+| Authentication | ⏳ |
+| CRM | ⏳ |
+| Sales | ⏳ |
+| Inventory | ⏳ |
+| HRM | ⏳ |
+| Dashboard | ⏳ |
 
----
-
-## Phase 0 — Foundation (Current)
-- [ ] Polished dashboard UI
-- [ ] Responsive layout
-- [ ] Component structure ready
-- [ ] Dummy screens for CRM, Sales, Inventory, Accounting, HRM
-
----
-
-## Phase 1 — CRM + Sales
-- [ ] CRM → Leads table page
-- [ ] CRM → Lead details view
-- [ ] Sales → Quotations table
-- [ ] Form to create quotation (dummy API)
-
----
-
-## Phase 2 — User System + Dashboard
-- [ ] Login page (with backend later)
-- [ ] Protected routes (dashboard)
-- [ ] Multi-company + multi-user UI
-- [ ] Dashboard KPIs + charts
-
----
-
-## Phase 3 — Full UI Integration
-- [ ] Inventory screens
-- [ ] Accounting screens
-- [ ] HRM screens
-- [ ] Settings / Profile screen
-
----
-
-If you want to start contributing:
-→ Pick a task above and check the **Issues** tab.
+How to participate:
+1. Go to Issues
+2. Pick a task
+3. Comment **"Assign to me"**
+4. Submit small PRs

@@ -1,0 +1,5 @@
+- Clean corporate styling
+- No clutter — whitespace is important
+- Icons + colors only where meaningful
+- Table + modal layout preferred for CRUD
+- Dark/light themes (future support)
