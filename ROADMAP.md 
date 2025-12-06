@@ -1,17 +1,17 @@
-# 📌 Workforges Frontend — MVP Roadmap
+This issue tracks the MVP development of Workforges Frontend.
 
-## Phase-1 (current)
-| Module | Status |
-|--------|--------|
-| Authentication | ⏳ |
-| CRM | ⏳ |
-| Sales | ⏳ |
-| Inventory | ⏳ |
-| HRM | ⏳ |
-| Dashboard | ⏳ |
+## Phase-1 Modules (MVP)
+- Authentication
+- Dashboard
+- CRM
+- Sales
+- Inventory
+- HRM
 
-How to participate:
+How to contribute
 1. Go to Issues
 2. Pick a task
-3. Comment **"Assign to me"**
-4. Submit small PRs
+3. Comment "Assign to me"
+4. Submit PR with screenshots
+
+Small, focused PRs only.
